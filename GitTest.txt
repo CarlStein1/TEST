@@ -1,6 +1,6 @@
 123
-commit test
 321
+commit test
 213
 abcd
 Add line
