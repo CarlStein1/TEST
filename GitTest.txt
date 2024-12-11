@@ -5,3 +5,4 @@ commit test
 abcd
 Add line
 new branch line
+new line for GUI
